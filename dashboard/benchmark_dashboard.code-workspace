@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../vectordb-benchmark/benchmark_dashboard"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
